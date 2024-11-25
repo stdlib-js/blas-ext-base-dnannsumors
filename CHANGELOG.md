@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-11-11)
+## Unreleased (2024-11-25)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`a39d0f3`](https://github.com/stdlib-js/stdlib/commit/a39d0f372c70df837af84d321fa0b9b3d61f453b) - **refactor:** update `offset` handling and function documentation for `blas/ext/base/dnannsumors` [(#3252)](https://github.com/stdlib-js/stdlib/pull/3252) _(by Muhammad Haris)_
 -   [`af8d471`](https://github.com/stdlib-js/stdlib/commit/af8d471a7e01113f814a78fc411c7949b69ca1f3) - **feat:** add C `ndarray` API and refactor `blas/ext/base/dnannsumors` [(#2991)](https://github.com/stdlib-js/stdlib/pull/2991) _(by Muhammad Haris)_
 -   [`898b50d`](https://github.com/stdlib-js/stdlib/commit/898b50d8d705bdf6a55db8cf1858ea1e1d257c35) - **fix:** fix includes and types _(by Philipp Burckhardt)_
 -   [`272ae7a`](https://github.com/stdlib-js/stdlib/commit/272ae7ac5c576c68cfab1b6e304c86407faa20cd) - **docs:** remove comment _(by Athan Reines)_
