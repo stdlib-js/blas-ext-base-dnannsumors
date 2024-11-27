@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-11-25)
+## Unreleased (2024-11-27)
 
 <section class="features">
 
@@ -26,12 +26,25 @@
 
 <!-- /.bug-fixes -->
 
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3253](https://github.com/stdlib-js/stdlib/issues/3253)
+
+</section>
+
+<!-- /.issues -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`9d47d0e`](https://github.com/stdlib-js/stdlib/commit/9d47d0e141eaa5705b242eb84a2c34a94d61e462) - **test:** add tests to `blas/ext/base/dnannsumors` [(#3266)](https://github.com/stdlib-js/stdlib/pull/3266) _(by Saurabh Singh, Athan Reines)_
 -   [`a39d0f3`](https://github.com/stdlib-js/stdlib/commit/a39d0f372c70df837af84d321fa0b9b3d61f453b) - **refactor:** update `offset` handling and function documentation for `blas/ext/base/dnannsumors` [(#3252)](https://github.com/stdlib-js/stdlib/pull/3252) _(by Muhammad Haris)_
 -   [`af8d471`](https://github.com/stdlib-js/stdlib/commit/af8d471a7e01113f814a78fc411c7949b69ca1f3) - **feat:** add C `ndarray` API and refactor `blas/ext/base/dnannsumors` [(#2991)](https://github.com/stdlib-js/stdlib/pull/2991) _(by Muhammad Haris)_
 -   [`898b50d`](https://github.com/stdlib-js/stdlib/commit/898b50d8d705bdf6a55db8cf1858ea1e1d257c35) - **fix:** fix includes and types _(by Philipp Burckhardt)_
@@ -48,11 +61,12 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Muhammad Haris
 -   Philipp Burckhardt
+-   Saurabh Singh
 
 </section>
 
