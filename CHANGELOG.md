@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-23)
+## Unreleased (2025-02-15)
 
 <section class="features">
 
@@ -44,6 +44,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`8e5b82c`](https://github.com/stdlib-js/stdlib/commit/8e5b82caeae6b84d4a888397c6087b0ea8666acf) - **docs:** update `blas/ext/base/dnannsumors` to follow current project conventions [(#5189)](https://github.com/stdlib-js/stdlib/pull/5189) _(by Muhammad Haris)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`9d47d0e`](https://github.com/stdlib-js/stdlib/commit/9d47d0e141eaa5705b242eb84a2c34a94d61e462) - **test:** add tests to `blas/ext/base/dnannsumors` [(#3266)](https://github.com/stdlib-js/stdlib/pull/3266) _(by Saurabh Singh, Athan Reines)_
 -   [`a39d0f3`](https://github.com/stdlib-js/stdlib/commit/a39d0f372c70df837af84d321fa0b9b3d61f453b) - **refactor:** update `offset` handling and function documentation for `blas/ext/base/dnannsumors` [(#3252)](https://github.com/stdlib-js/stdlib/pull/3252) _(by Muhammad Haris)_
