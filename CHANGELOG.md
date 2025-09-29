@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-17)
+## Unreleased (2025-09-29)
 
 <section class="features">
 
@@ -20,6 +20,7 @@
 
 ### Bug Fixes
 
+-   [`c7725bd`](https://github.com/stdlib-js/stdlib/commit/c7725bd2c3aeb2ad5844fbe4fa0ac7f0ac88d133) - update implementation to preserve signed zeros
 -   [`898b50d`](https://github.com/stdlib-js/stdlib/commit/898b50d8d705bdf6a55db8cf1858ea1e1d257c35) - fix includes and types
 
 </section>
@@ -44,6 +45,9 @@ This release closes the following issue:
 
 <details>
 
+-   [`d94514b`](https://github.com/stdlib-js/stdlib/commit/d94514bc9418f5b42df6233204d5005d53af00ca) - **docs:** clean-up TSDoc declaration comments _(by Philipp Burckhardt)_
+-   [`c7725bd`](https://github.com/stdlib-js/stdlib/commit/c7725bd2c3aeb2ad5844fbe4fa0ac7f0ac88d133) - **fix:** update implementation to preserve signed zeros _(by Athan Reines)_
+-   [`c3a0bf7`](https://github.com/stdlib-js/stdlib/commit/c3a0bf728593d5f8d73c54065083594f867db098) - **test:** add signed zero tests _(by Athan Reines)_
 -   [`8e5b82c`](https://github.com/stdlib-js/stdlib/commit/8e5b82caeae6b84d4a888397c6087b0ea8666acf) - **docs:** update `blas/ext/base/dnannsumors` to follow current project conventions [(#5189)](https://github.com/stdlib-js/stdlib/pull/5189) _(by Muhammad Haris)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`9d47d0e`](https://github.com/stdlib-js/stdlib/commit/9d47d0e141eaa5705b242eb84a2c34a94d61e462) - **test:** add tests to `blas/ext/base/dnannsumors` [(#3266)](https://github.com/stdlib-js/stdlib/pull/3266) _(by Saurabh Singh, Athan Reines)_
