@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dnannsumors from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dnannsumors@esm/index.mjs';
+import dnannsumors from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dnannsumors@v0.3.0-esm/index.mjs';
 ```
 
 #### dnannsumors( N, x, strideX, out, strideOut )
@@ -165,7 +165,7 @@ import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-bernoul
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@esm/index.mjs';
 
 import filledarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by@esm/index.mjs';
-import dnannsumors from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dnannsumors@esm/index.mjs';
+import dnannsumors from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dnannsumors@v0.3.0-esm/index.mjs';
 
 function rand() {
     if ( bernoulli( 0.5 ) < 1 ) {
